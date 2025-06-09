@@ -61,7 +61,7 @@ http://localhost:8080/h2-console
 ```
 Use as configurações padrão do H2 `(jdbc:h2:mem:testdb)`.
 
-##📚 Aprendizados
+## 📚 Aprendizados
 Este projeto foi fundamental para entender conceitos como:
 
 Criação de APIs REST com Spring Boot
